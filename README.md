@@ -106,11 +106,6 @@
 </details>
 </br>
 
-<details>	
-<br>
-  <summary><b>☄️ WakaTime</b></summary>
-<br>
-<img height="180em" src="https://github.com/luiz123o/github-readme-stats" />
-</details>
+<summary><b>☄️ WakaTime</b>
 
-
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/luiz123o/github-readme-stats)
