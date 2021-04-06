@@ -106,4 +106,11 @@
 </details>
 </br>
 
+<details>	
+<br>
+  <summary><b>☄️ WakaTime</b></summary>
+<br>
+<img height="180em" src="![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=luiz123o&hide_title=true&hide_border=true&langs_count=5)" />
+</details>
+
 
