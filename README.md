@@ -108,4 +108,4 @@
 
 <p>🚀 WakaTime</p>
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/luiz123o/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=luiz123o)](https://github.com/luiz123o/github-readme-stats)
