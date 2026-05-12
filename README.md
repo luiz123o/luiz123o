@@ -1,13 +1,13 @@
 ### Luiz Otavio
 **Full-Stack Engineer @ Mercado Livre**
 
-Construindo produtos de seguros e ferramentas internas de IA pra times de engenharia.
+Construindo produtos de seguros
 
 ---
 
 #### Now
 
-- **Mercado Livre · Seguros** — atuando em frontend, backend (Go) e MCPs.
+- **Mercado Livre · Seguros** — atuando em frontend e MCPs.
 - **Foco lateral** — tooling interno e automação com IA pro ciclo de dev (geração, review e qualidade de código).
 
 #### Experiência
